@@ -1,0 +1,107 @@
+{
+ "corus consultancy": {
+  "ids": [],
+  "lastOffered": "2026-09-30"
+ },
+ "care outlook": {
+  "ids": [],
+  "lastOffered": "2026-10-02"
+ },
+ "excelsis healthcare recruitment": {
+  "ids": [],
+  "lastOffered": "2026-10-14"
+ },
+ "hertfordshire partnership university nhs foundation trust": {
+  "ids": [],
+  "lastOffered": "2026-10-30"
+ },
+ "dorset healthcare university nhs foundation trust": {
+  "ids": [],
+  "lastOffered": "2026-10-27"
+ },
+ "cambridge university hospitals nhs foundation trust": {
+  "ids": [
+   "nhse-C9180-26-1025"
+  ],
+  "lastOffered": "2026-08-25"
+ },
+ "sherwood forest hospitals nhs foundation trust": {
+  "ids": [],
+  "lastOffered": "2026-10-30"
+ },
+ "devon partnership nhs trust": {
+  "ids": [],
+  "lastOffered": "2026-10-28"
+ },
+ "mersey care nhs trust": {
+  "ids": [],
+  "lastOffered": "2026-10-23"
+ },
+ "nottinghamshire healthcare nhs foundation trust": {
+  "ids": [],
+  "lastOffered": "2026-10-21"
+ },
+ "north cumbria integrated care nhs foundation trust": {
+  "ids": [],
+  "lastOffered": "2026-10-29"
+ },
+ "airedale nhs foundation trust": {
+  "ids": [],
+  "lastOffered": "2026-10-15"
+ },
+ "manchester university nhs foundation trust": {
+  "ids": [],
+  "lastOffered": "2026-10-27"
+ },
+ "humber teaching nhs foundation trust": {
+  "ids": [],
+  "lastOffered": "2026-10-28"
+ },
+ "derbyshire community health nhs trust": {
+  "ids": [],
+  "lastOffered": "2026-10-30"
+ },
+ "hertfordshire community nhs trust": {
+  "ids": [],
+  "lastOffered": "2026-10-15"
+ },
+ "norfolk norwich university hospitals nhs foundation trust": {
+  "ids": [],
+  "lastOffered": "2026-10-30"
+ },
+ "national waiting times centre board": {
+  "ids": [],
+  "lastOffered": "2026-10-19"
+ },
+ "arm": {
+  "ids": [
+   "li-4490860340"
+  ],
+  "lastOffered": "2026-11-18"
+ },
+ "university hospitals birmingham nhs foundation trust": {
+  "ids": [
+   "li-4489276503"
+  ],
+  "lastOffered": "2026-11-12"
+ },
+ "sega europe": {
+  "ids": [
+   "li-4473909852"
+  ],
+  "lastOffered": "2026-10-22"
+ },
+ "frontier developments": {
+  "ids": [
+   "li-4492416596"
+  ],
+  "lastOffered": "2026-11-19"
+ },
+ "ge vernova": {
+  "ids": [
+   "li-4485343171",
+   "li-4468684089"
+  ],
+  "lastOffered": "2026-10-30"
+ }
+}

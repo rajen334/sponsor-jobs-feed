@@ -181,15 +181,39 @@
       seniorityLabel: crit['Seniority level'] || '',
     };
   }
-  // Who the employer is, by country; null drops the job. Agencies are kept only when the advert offers sponsorship.
+  // Adverts in Ireland, Germany and the Netherlands that only consider people already living or allowed to work there.
+  const HOME_ONLY = new RegExp([
+    /(?:must|need to|should|have to)\s+(?:already\s+|currently\s+)?(?:be\s+)?(?:based|located|living|resident|residing)\s+in\s+(?:ireland|germany|the netherlands|netherlands|the eu|the eea|europe|dublin|cork|galway|berlin|munich|hamburg|frankfurt|amsterdam|rotterdam|utrecht|eindhoven|the hague)/.source,
+    /(?:eu|eea)\s+(?:citizens?|nationals?|passport holders?)\s+only|only\s+(?:eu|eea)\s+(?:citizens|nationals|candidates|applicants)|(?:candidates|applicants)\s+(?:must|need to)\s+(?:be|hold)\s+(?:an?\s+)?(?:eu|eea)\s+(?:citizens?|nationals?|passport)/.source,
+    /(?:eu|eea|irish|stamp\s*4|dutch|german)\s+(?:work\s+)?(?:authori[sz]ation|work permit|right to work|residence permit)\s+(?:is\s+)?(?:required|essential|needed|a must|mandatory)/.source,
+    /\bno\s+relocation|relocation\s+(?:is\s+)?(?:not\s+(?:offered|provided|available|possible|supported)|unavailable)|keine?\s+(?:relocation|umzugsunterst(?:ü|ue)tzung)|wohnsitz\s+in\s+deutschland\s+(?:ist\s+)?(?:erforderlich|voraussetzung)|woonachtig\s+in\s+nederland/.source,
+  ].join('|'), 'i');
+  // Who the employer is, by country; null drops the job.
+  //  - Agencies, in every country: only when the advert offers sponsorship or visa support (their client isn't named).
+  //  - UK: a direct employer with an A-rated Skilled Worker licence.
+  //  - Ireland: an employer with employment permits issued this year or last (it has hired from abroad).
+  //  - Netherlands: an IND recognised sponsor (it can bring in highly skilled migrants).
+  //  - Germany (no register): an advert offering visa support, relocation or the Blue Card.
+  //  - Outside the UK, no adverts that only consider people already living or allowed to work there.
   function sponsorFor(job, country, registers) {
     const agency = SM.isAgency(job.company);
+    if (country !== 'UK' && abroadReason({ ...job, country })) return null;
     if (agency) return job.sponsorship === 'offered' ? { employerType: 'Agency', sponsor: null } : null;
-    const sp = country === 'UK' ? registers.UK && registers.UK(job.company) : registers[country] ? registers[country](job.company) : null;
-    if (country === 'UK') return skilledWorkerA(sp) ? { employerType: 'Direct', sponsor: sp } : null;
-    // Ireland and the Netherlands: a register entry or an advert that offers sponsorship. Germany: the advert must offer it.
-    if (sp || job.sponsorship === 'offered') return { employerType: 'Direct', sponsor: sp || null };
-    return null;
+    if (country === 'UK') {
+      const sp = registers.UK && registers.UK(job.company);
+      return skilledWorkerA(sp) ? { employerType: 'Direct', sponsor: sp } : null;
+    }
+    const sp = registers[country] ? registers[country](job.company) : null;
+    return country === 'DE' ? (job.sponsorship === 'offered' ? { employerType: 'Direct', sponsor: null } : null) : sp ? { employerType: 'Direct', sponsor: sp } : null;
+  }
+  // Why an Irish, German or Dutch job doesn't fit, or '' when it does (used again by finalize-jobs.js on stored jobs).
+  function abroadReason(j) {
+    const text = plainText(j.description), offered = j.sponsorship === 'offered' || sponsorshipSignal(text) === 'offered';
+    if (HOME_ONLY.test(text)) return 'only for people already living or allowed to work there';
+    if (j.employerType === 'Agency' || SM.isAgency(j.company)) return offered ? '' : 'agency advert without sponsorship';
+    if (j.country === 'DE') return offered ? '' : 'no visa support offered';
+    if (j.employerType && !j.sponsor) return j.country === 'IE' ? 'no Irish employment permits issued to this employer' : 'not an IND recognised sponsor';
+    return '';
   }
 
   // Runs the searches and reads each candidate advert. http(url) -> Promise<string>; onProgress({ step, done, total, found }).
@@ -212,9 +236,11 @@
         done++;
         onProgress({ step: `${COUNTRIES[q.country].short} · ${q.kw}`, done, total: plan.length, found: jobs.length });
       }
-      // Read adverts from likely sponsors first: UK licensed employers, Irish and Dutch register entries, then the rest.
+      // Read adverts only from employers that can qualify: UK licensed sponsors, Irish permit holders, Dutch recognised
+      // sponsors, any German employer, and agencies (all judged on the advert as well).
       const ranked = [...cards.values()].map(c => ({ c, known: !SM.isAgency(c.company) && !!(registers[group.country] && registers[group.country](c.company)) }))
-        .filter(x => group.country !== 'UK' || x.known || SM.isAgency(x.c.company)).sort((a, b) => b.known - a.known).slice(0, maxDetails);
+        .filter(x => group.country === 'DE' || x.known || SM.isAgency(x.c.company))
+        .sort((a, b) => b.known - a.known).slice(0, maxDetails);
       for (const { c } of ranked) {
         if (stop()) break;
         let html = '';
@@ -229,7 +255,7 @@
   }
 
   const api = { COUNTRIES, QUERIES, queries, roleOk, levelOf, NO_SPONSOR, YES_SPONSOR, sponsorshipSignal, plainText, sanitise, parseSalary,
-    ukSponsors, intlSponsors, skilledWorkerA, likelihood, UK_THRESHOLD, searchUrl, detailUrl, parseSearch, parseJob, sponsorFor, collect };
+    ukSponsors, intlSponsors, skilledWorkerA, likelihood, HOME_ONLY, abroadReason, UK_THRESHOLD, searchUrl, detailUrl, parseSearch, parseJob, sponsorFor, collect };
   if (typeof module !== 'undefined' && module.exports) module.exports = api;
   else root.JobSources = api;
 })(typeof window !== 'undefined' ? window : globalThis);

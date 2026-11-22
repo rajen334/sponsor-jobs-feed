@@ -15,6 +15,7 @@ const path = require('path');
 const { key } = require('./sponsor-match');
 const F = require('./job-filters');
 const C = require('./care-filters');
+const S = require('../web/sources');
 const { loadJobs, loadSponsors, JOBS_FILE } = require('./jobs-file');
 
 const data = loadJobs();
@@ -56,9 +57,11 @@ function keepCare(j) {
   if (licensed) j.sponsor = sponsor; else delete j.sponsor;
   return true;
 }
-// Ireland, Germany and the Netherlands: fetch-intl.js has already checked the role and the employer's register entry.
+// Ireland, Germany and the Netherlands: employers that have hired from abroad and can sponsor (Irish permits, IND recognised
+// sponsor, or a German advert offering visa support), open to people moving from the UK. Rules in web/sources.js.
 function keepIntl(j) {
-  const reason = F.sponsorshipSignal(F.plainText(j.description)) === 'not offered' ? 'advert rules out sponsorship' : closed(j) ? 'closed' : '';
+  const reason = F.sponsorshipSignal(F.plainText(j.description)) === 'not offered' ? 'advert rules out sponsorship'
+    : S.abroadReason(j) || (closed(j) ? 'closed' : '');
   if (reason) { dropped.push(`${j.country}, ${reason}: ${j.title} @ ${j.company}`); return false; }
   return true;
 }
@@ -73,7 +76,7 @@ data.jobs = data.jobs.filter(j => {
     : !qa && F.isQaTitle(j.title) ? 'QA / testing role (listed under QA)'
     : !qa && !F.isDotnetRole(j.title, text) ? 'not a .NET role'
     : sponsorship === 'not offered' ? 'advert rules out sponsorship'
-    // Agency clients are unnamed, so an agency job is only useful when the advert offers sponsorship.
+    // Agency clients are unnamed, so an agency job is only kept when the advert offers sponsorship.
     : agency && sponsorship !== 'offered' ? `agency, sponsorship ${sponsorship}`
     : F.NOT_PERMANENT.test(j.title) || (j.contract && !/permanent/i.test(j.contract)) || CONTRACT_TEXT.test(text) ? 'contract or temporary'
     : closed(j) ? 'closed' : '';
@@ -83,7 +86,8 @@ data.jobs = data.jobs.filter(j => {
     const m = match(j.company);
     if (!m) { dropped.push(`no sponsor match: ${j.title} @ ${j.company}`); return false; }
     j.sponsor = describe(m);
-  }
+    if (!qa && !S.skilledWorkerA(j.sponsor)) { dropped.push(`no A-rated Skilled Worker licence: ${j.title} @ ${j.company}`); return false; }
+  } else if (!agency && !qa) { dropped.push(`not on the sponsor register: ${j.title} @ ${j.company}`); return false; }
   return true;
 });
 
