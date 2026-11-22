@@ -4,7 +4,7 @@ window.JOB_DATA={
   "salaryMin": 42000,
   "salaryMax": 85000,
   "scanned": 245,
-  "source": "CV-Library + LinkedIn + NHS Jobs + NHS Scotland Jobs + Reed.co.uk (direct employers only)",
+  "source": "NHS Jobs + NHS Scotland Jobs + Reed.co.uk (direct employers only)",
   "linkedinScanned": 1336,
   "reedScanned": 577,
   "cvlibraryScanned": 627,
