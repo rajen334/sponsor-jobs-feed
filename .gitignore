@@ -1,0 +1,6 @@
+node_modules/
+logs/
+site/
+*.csv
+web/data/sponsors.js
+web/data/intl-sponsors.js

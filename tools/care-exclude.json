@@ -1,0 +1,6 @@
+{
+  "_note": "Care employers that hold a sponsor licence but don't sponsor care workers (for example they sponsor only RQF 6 / nursing roles). Their care jobs are never listed. Add names as you learn them.",
+  "companies": [
+    { "name": "Humberside Independent Care Association Limited", "aliases": ["HICA Group", "HICA", "HICA Group Ltd"], "reason": "Licensed sponsor, but sponsors only RQF level 6 roles, not care workers (reported by the user)." }
+  ]
+}

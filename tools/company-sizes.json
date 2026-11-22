@@ -1,0 +1,349 @@
+{
+ "Quanteam": {
+  "employees": "501-1,000",
+  "source": "https://uk.linkedin.com/company/quanteam"
+ },
+ "Pluxee": {
+  "employees": "5,001-10,000",
+  "source": "https://uk.linkedin.com/company/pluxeegroup"
+ },
+ "Rolls-Royce": {
+  "employees": "10,001+",
+  "source": "https://uk.linkedin.com/company/rolls-royce"
+ },
+ "NTT DATA": {
+  "employees": "10,001+",
+  "source": "https://uk.linkedin.com/company/nttdata"
+ },
+ "Almac Group": {
+  "employees": "5,001-10,000",
+  "source": "https://uk.linkedin.com/company/almac-group"
+ },
+ "Leeds Building Society": {
+  "employees": "1,001-5,000",
+  "source": "https://uk.linkedin.com/company/leeds-building-society"
+ },
+ "Leonardo": {
+  "employees": "10,001+",
+  "source": "https://uk.linkedin.com/company/leonardo_company"
+ },
+ "Benifex": {
+  "employees": "501-1,000",
+  "source": "https://uk.linkedin.com/company/benifex"
+ },
+ "JUXT": {
+  "employees": "51-200",
+  "source": "https://uk.linkedin.com/company/juxt-juxt-pro-"
+ },
+ "Esri": {
+  "employees": "5,001-10,000",
+  "source": "https://www.linkedin.com/company/esri"
+ },
+ "TP ICAP": {
+  "employees": "5,001-10,000",
+  "source": "https://uk.linkedin.com/company/tp-icap"
+ },
+ "Domino Printing Sciences": {
+  "employees": "1,001-5,000",
+  "source": "https://uk.linkedin.com/company/domino-printing"
+ },
+ "Canopius Group": {
+  "employees": "501-1,000",
+  "source": "https://uk.linkedin.com/company/canopius"
+ },
+ "BT Group": {
+  "employees": "10,001+",
+  "source": "https://uk.linkedin.com/company/bt"
+ },
+ "Equisoft": {
+  "employees": "501-1,000",
+  "source": "https://uk.linkedin.com/company/equisoft"
+ },
+ "Quanteam UK": {
+  "employees": "51-200",
+  "source": "https://uk.linkedin.com/company/quanteam-uk"
+ },
+ "Convergence Group": {
+  "employees": "51-200",
+  "source": "https://uk.linkedin.com/company/convergence-group"
+ },
+ "Netcompany": {
+  "employees": "5,001-10,000",
+  "source": "https://uk.linkedin.com/company/netcompany-a-s"
+ },
+ "John Crane": {
+  "employees": "5,001-10,000",
+  "source": "https://uk.linkedin.com/company/john-crane"
+ },
+ "Alloyed": {
+  "employees": "51-200",
+  "source": "https://uk.linkedin.com/company/alloyed"
+ },
+ "National Grid": {
+  "employees": "10,001+",
+  "source": "https://uk.linkedin.com/company/national-grid"
+ },
+ "Willis Re": {
+  "employees": "51-200",
+  "source": "https://uk.linkedin.com/company/willisre"
+ },
+ "Handelsbanken": {
+  "employees": "10,001+",
+  "source": "https://uk.linkedin.com/company/handelsbanken"
+ },
+ "Spreadex": {
+  "employees": "51-200",
+  "source": "https://uk.linkedin.com/company/spreadex"
+ },
+ "inforcer": {
+  "employees": "51-200",
+  "source": "https://uk.linkedin.com/company/inforcer"
+ },
+ "Qube Research & Technologies": {
+  "employees": "1,001-5,000",
+  "source": "https://uk.linkedin.com/company/qube-rt"
+ },
+ "MASS": {
+  "employees": null,
+  "note": "generic name; LinkedIn match not reliable"
+ },
+ "Unisys": {
+  "employees": "10,001+",
+  "source": "https://www.linkedin.com/company/unisys"
+ },
+ "Public-i Group Ltd": {
+  "employees": "11-50",
+  "source": "https://uk.linkedin.com/company/public-i-group-ltd"
+ },
+ "Force24": {
+  "employees": "51-200",
+  "source": "https://uk.linkedin.com/company/force24"
+ },
+ "Keysight Technologies": {
+  "employees": "10,001+",
+  "source": "https://www.linkedin.com/company/keysight-technologies"
+ },
+ "allpay Limited": {
+  "employees": "201-500",
+  "source": "https://uk.linkedin.com/company/allpay-limited"
+ },
+ "Advocate Group": {
+  "employees": "11-50",
+  "source": "https://uk.linkedin.com/company/the-advocate-group-search-selection"
+ },
+ "Pearson": {
+  "employees": "10,001+",
+  "source": "https://uk.linkedin.com/company/pearson"
+ },
+ "Tracebit": {
+  "employees": "11-50",
+  "source": "https://www.linkedin.com/company/tracebit"
+ },
+ "IBM": {
+  "employees": "10,001+",
+  "source": "https://www.linkedin.com/company/ibm"
+ },
+ "Northern Powergrid": {
+  "employees": "1,001-5,000",
+  "source": "https://uk.linkedin.com/company/northern-powergrid"
+ },
+ "The Open University": {
+  "employees": null
+ },
+ "Kallidus": {
+  "employees": "201-500",
+  "source": "https://uk.linkedin.com/company/kallidus"
+ },
+ "Catalyst": {
+  "employees": null,
+  "note": "generic name; LinkedIn match not reliable"
+ },
+ "Capgemini": {
+  "employees": "10,001+",
+  "source": "https://uk.linkedin.com/company/capgemini"
+ },
+ "Infinitesima": {
+  "employees": "51-200",
+  "source": "https://uk.linkedin.com/company/infinitesima"
+ },
+ "EcoOnline": {
+  "employees": "501-1,000",
+  "source": "https://uk.linkedin.com/company/ecoonline-global"
+ },
+ "KLA": {
+  "employees": "10,001+",
+  "source": "https://www.linkedin.com/company/klacorp"
+ },
+ "Menzies LLP": {
+  "employees": "1,001-5,000",
+  "source": "https://uk.linkedin.com/company/menzies-llp"
+ },
+ "Advania UK": {
+  "employees": "1,001-5,000",
+  "source": "https://uk.linkedin.com/company/advania-uk"
+ },
+ "Archer": {
+  "employees": "51-200",
+  "source": "https://uk.linkedin.com/company/meet-archer"
+ },
+ "The Guinness Partnership": {
+  "employees": "1,001-5,000",
+  "source": "https://uk.linkedin.com/company/the-guinness-partnership"
+ },
+ "Mphasis": {
+  "employees": "10,001+",
+  "source": "https://uk.linkedin.com/company/mphasis"
+ },
+ "Ripple": {
+  "employees": "1,001-5,000",
+  "source": "https://www.linkedin.com/company/ripple"
+ },
+ "Bytes Software Services": {
+  "employees": "501-1,000",
+  "source": "https://uk.linkedin.com/company/bytes-software-services"
+ },
+ "Computacenter": {
+  "employees": "10,001+",
+  "source": "https://uk.linkedin.com/company/computacenter"
+ },
+ "Future": {
+  "employees": "1,001-5,000",
+  "source": "https://uk.linkedin.com/company/future-publishing"
+ },
+ "Scott Logic": {
+  "employees": "201-500",
+  "source": "https://uk.linkedin.com/company/scott-logic-limited"
+ },
+ "NiCE": {
+  "employees": "5,001-10,000",
+  "source": "https://www.linkedin.com/company/nice-systems"
+ },
+ "Certara": {
+  "employees": "1,001-5,000",
+  "source": "https://www.linkedin.com/company/certara"
+ },
+ "Bank of Ireland Group plc": {
+  "employees": "501-1,000",
+  "source": "https://www.linkedin.com/company/bank-of-ireland-global-markets"
+ },
+ "Infor": {
+  "employees": "10,001+",
+  "source": "https://www.linkedin.com/company/infor"
+ },
+ "Mortgage Advice Bureau": {
+  "employees": "1,001-5,000",
+  "source": "https://uk.linkedin.com/company/mortgage-advice-bureau"
+ },
+ "Laing O'Rourke": {
+  "employees": "10,001+",
+  "source": "https://www.linkedin.com/company/laingorourke"
+ },
+ "Grant Thornton UK": {
+  "employees": "5,001-10,000",
+  "source": "https://uk.linkedin.com/company/grant-thornton-uk"
+ },
+ "Barings": {
+  "employees": "1,001-5,000",
+  "source": "https://uk.linkedin.com/company/barings"
+ },
+ "Elekta": {
+  "employees": "1,001-5,000",
+  "source": "https://uk.linkedin.com/company/elekta"
+ },
+ "Civil Aviation Authority": {
+  "employees": "1,001-5,000",
+  "source": "https://uk.linkedin.com/company/civil-aviation-authority"
+ },
+ "Mountain Warehouse": {
+  "employees": "1,001-5,000",
+  "source": "https://uk.linkedin.com/company/mountain-warehouse"
+ },
+ "Tata Consultancy Services": {
+  "employees": "10,001+",
+  "source": "https://uk.linkedin.com/company/tata-consultancy-services"
+ },
+ "AJ Bell": {
+  "employees": "1,001-5,000",
+  "source": "https://uk.linkedin.com/company/ajbell"
+ },
+ "Starry Care": {
+  "employees": "11-50",
+  "source": "https://uk.linkedin.com/company/starrycareuk"
+ },
+ "Arch Insurance (UK) Limited": {
+  "employees": "201-500",
+  "source": "https://uk.linkedin.com/company/arch-insurance-uk-limited"
+ },
+ "Cloud Imperium Games": {
+  "employees": "1,001-5,000",
+  "source": "https://uk.linkedin.com/company/cloud-imperium-games"
+ },
+ "Zopa Bank": {
+  "employees": "501-1,000",
+  "source": "https://uk.linkedin.com/company/zopabank"
+ },
+ "Ensono": {
+  "employees": "1,001-5,000",
+  "source": "https://www.linkedin.com/company/ensono"
+ },
+ "KPMG UK": {
+  "employees": "10,001+",
+  "source": "https://uk.linkedin.com/company/kpmg-uk"
+ },
+ "Motorola Solutions": {
+  "employees": "10,001+",
+  "source": "https://www.linkedin.com/company/motorolasolutions"
+ },
+ "Informed Solutions": {
+  "employees": "51-200",
+  "source": "https://uk.linkedin.com/company/informed-solutions"
+ },
+ "Brodies LLP": {
+  "employees": "501-1,000",
+  "source": "https://uk.linkedin.com/company/brodies-llp"
+ },
+ "Vix Technology": {
+  "employees": "201-500",
+  "source": "https://uk.linkedin.com/company/vix-technology"
+ },
+ "OrganOx": {
+  "employees": "51-200",
+  "source": "https://uk.linkedin.com/company/organox"
+ },
+ "Waters Corporation": {
+  "employees": "10,001+",
+  "source": "https://www.linkedin.com/company/waters"
+ },
+ "Trayport": {
+  "employees": "201-500",
+  "source": "https://uk.linkedin.com/company/trayport"
+ },
+ "Houseful": {
+  "employees": "501-1,000",
+  "source": "https://uk.linkedin.com/company/housefulgroup"
+ },
+ "Aberdeen": {
+  "employees": "5,001-10,000",
+  "source": "https://uk.linkedin.com/company/aberdeen-group-plc"
+ },
+ "The Gap Partnership": {
+  "employees": "201-500",
+  "source": "https://uk.linkedin.com/company/the-gap-partnership"
+ },
+ "E.ON UK": {
+  "employees": "10,001+",
+  "source": "https://uk.linkedin.com/company/e-on-uk"
+ },
+ "Microlise": {
+  "employees": "501-1,000",
+  "source": "https://uk.linkedin.com/company/microlise"
+ },
+ "M-KOPA": {
+  "employees": "1,001-5,000",
+  "source": "https://uk.linkedin.com/company/m-kopa"
+ },
+ "Grid Dynamics": {
+  "employees": "5,001-10,000",
+  "source": "https://www.linkedin.com/company/grid-dynamics"
+ }
+}

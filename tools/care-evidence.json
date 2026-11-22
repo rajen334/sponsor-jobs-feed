@@ -1,0 +1,2495 @@
+{
+ "companies": {
+  "creative support": {
+   "name": "Creative Support Limited",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "jlkare support": {
+   "name": "JLKare and Support Limited",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "strode park foundation": {
+   "name": "Strode Park Foundation",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "riverside": {
+   "name": "THE RIVERSIDE GROUP LTD",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "excelcare": {
+   "name": "Excelcare Holdings",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "brook street": {
+   "name": "Brook Street",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "response": {
+   "name": "RESPONSE UK GROUP LIMITED",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "ceredigion county council": {
+   "name": "Ceredigion County Council",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "agincare": {
+   "name": "Agincare UK Limited",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "hartley home care": {
+   "name": "Hartley Home Care Limited",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-27"
+  },
+  "kent county council": {
+   "name": "Kent County Council",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "monarch healthcare": {
+   "name": "Monarch Healthcare (Ferndene) Limited",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "barchester healthcare": {
+   "name": "Barchester Healthcare",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "avocet trust": {
+   "name": "Avocet Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "city county healthcare": {
+   "name": "City and County Healthcare Group - (CCH Group)",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "avenues": {
+   "name": "Avenues Group",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "forward trust": {
+   "name": "The Forward Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "nottingham community housing association": {
+   "name": "Nottingham Community Housing Association",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "hcrg care": {
+   "name": "HCRG Care Limited",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "cvs": {
+   "name": "CVS Group Plc",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "venture people": {
+   "name": "Venture-People Limited",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "northumberland county council": {
+   "name": "Northumberland County Council",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-26"
+  },
+  "banquo": {
+   "name": "Banquo Ltd",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "gemini 11": {
+   "name": "Gemini 11 Ltd T/A Gemini People",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "bidex recruitment": {
+   "name": "BIDEX RECRUITMENT SERVICES LTD",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "randstad care": {
+   "name": "Randstad Care",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "priority recruitment": {
+   "name": "Priority Recruitment",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "yourrecruit": {
+   "name": "YourRecruit",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "seva care": {
+   "name": "Seva Care (Respite and Residential Services) Limited",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "trident healthcare solutions": {
+   "name": "TRIDENT HEALTHCARE SOLUTIONS LIMITED",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "maplewood recruitment": {
+   "name": "MAPLEWOOD RECRUITMENT",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "anderson wright consulting": {
+   "name": "Anderson Wright Consulting Ltd",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "corus consultancy": {
+   "name": "Corus Consultancy Ltd",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30",
+   "lastSponsoredAdvert": "2026-09-30"
+  },
+  "proxycare": {
+   "name": "PROXYCARE LIMITED",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "md2 recruitment": {
+   "name": "MD2 Recruitment Ltd",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "prestige staffing training": {
+   "name": "Prestige Staffing and Training Group Ltd",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "prospero health social care": {
+   "name": "Prospero Health & Social Care",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "coburg banks": {
+   "name": "Coburg Banks Limited",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "academics": {
+   "name": "Academics",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "carebrix solutions": {
+   "name": "CAREBRIX SOLUTIONS LTD",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-26"
+  },
+  "recruitmentservice": {
+   "name": "RecruitmentService.uk",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-27"
+  },
+  "awd online": {
+   "name": "AWD online",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "hales": {
+   "name": "Hales Group Limited",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-27"
+  },
+  "medgen": {
+   "name": "Medgen Ltd",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "appcastenterprise": {
+   "name": "Appcastenterprise",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "your care recruitment": {
+   "name": "Your Care Recruitment Ltd",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-27"
+  },
+  "tl recruitment solutions": {
+   "name": "TL RECRUITMENT SOLUTIONS LTD",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-26"
+  },
+  "avon search selection": {
+   "name": "Avon Search & Selection Ltd",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "nurse seekers": {
+   "name": "Nurse Seekers",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "medisure locums": {
+   "name": "Medisure Locums Ltd t/a Medisure GP's",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "operations resources": {
+   "name": "Operations Resources",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "reed": {
+   "name": "Reed",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "ppr social care": {
+   "name": "PPR Social Care",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-26"
+  },
+  "fieldview care recruitment solutions": {
+   "name": "Fieldview Care Recruitment Solutions",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-26"
+  },
+  "purple rocket": {
+   "name": "Purple Rocket",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-26"
+  },
+  "aspire people": {
+   "name": "Aspire People Limited",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "additional resources": {
+   "name": "Additional Resources Ltd",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "educare recruitment": {
+   "name": "Educare Recruitment",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "dg partnership": {
+   "name": "DG Partnership Ltd",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-26"
+  },
+  "templewood recruitment": {
+   "name": "TEMPLEWOOD RECRUITMENT LTD",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "reeson education": {
+   "name": "Reeson Education",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-27"
+  },
+  "cts recruitment": {
+   "name": "CTS Recruitment LTD",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-26"
+  },
+  "consula": {
+   "name": "Consula Group LTD",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-26"
+  },
+  "khr recruitment specialists": {
+   "name": "KHR Recruitment Specialists",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-26"
+  },
+  "rgb recruitment": {
+   "name": "RGB Recruitment",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "major recruitment": {
+   "name": "Major Recruitment",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-26"
+  },
+  "1four1 recruitment": {
+   "name": "1FOUR1 RECRUITMENT",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "zentar": {
+   "name": "Zentar Group",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "innovex resource": {
+   "name": "Innovex Resource Group Limited",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "seven resourcing": {
+   "name": "Seven Resourcing",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "connaught resourcing": {
+   "name": "Connaught Resourcing",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "ador resourcing": {
+   "name": "Ador Resourcing",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "workforce personnel": {
+   "name": "WorkForce Personnel",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "housing plus": {
+   "name": "The Housing Plus Group Limited",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "ccs homecare": {
+   "name": "CCS Homecare Services",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "care4ocus": {
+   "name": "CARE4OCUS LTD",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "resilience personnel": {
+   "name": "Resilience Personnel Ltd",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "u i care": {
+   "name": "U&I Care Limited",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "meridian business support": {
+   "name": "Meridian Business Support LTD",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "dexters recruitment": {
+   "name": "Dexters Recruitment",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "austin dean healthcare recruitment": {
+   "name": "Austin Dean Healthcare Recruitment",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "kemps recruitment": {
+   "name": "Kemps Recruitment ltd",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "acme recruitment consultants": {
+   "name": "Acme recruitment consultants ltd",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "rjs resourcing": {
+   "name": "RJS Resourcing Ltd",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "brookes hc recruitment": {
+   "name": "Brookes HC Recruitment Ltd",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "blackstone recruitment": {
+   "name": "Blackstone Recruitment Limited",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "clover care": {
+   "name": "Clover Care Group Limited",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "partnership recruiting": {
+   "name": "Partnership Recruiting",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-26"
+  },
+  "up24 seven": {
+   "name": "Up24 Seven Services Ltd",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "reachout24 healthcare": {
+   "name": "ReachOut24 Healthcare Ltd",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "onpoint care recruitment": {
+   "name": "Onpoint Care Recruitment Ltd",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "almond care": {
+   "name": "ALMOND CARE LTD",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "care outlook": {
+   "name": "CARE OUTLOOK LTD",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30",
+   "lastSponsoredAdvert": "2026-10-02"
+  },
+  "hamberley care management": {
+   "name": "Hamberley Care Management (FV) Limited",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "caremark": {
+   "name": "Caremark",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "rch care homes": {
+   "name": "RCH CARE HOMES LIMITED",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "runwood homes": {
+   "name": "Runwood Homes Ltd",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "park house": {
+   "name": "Park House (Exeter) Ltd",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "protea care homes": {
+   "name": "Protea Care Homes (Kent) Ltd",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-26"
+  },
+  "caretech": {
+   "name": "CareTech Holdings Limited",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "action on disability": {
+   "name": "Action on Disability",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "look ahead care support": {
+   "name": "Look Ahead Care and Support Ltd",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "kerry collins recruitment": {
+   "name": "Kerry Collins Recruitment Limited",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "ten90 recruitment": {
+   "name": "Ten90 Recruitment Group Ltd",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "prestige talent partners": {
+   "name": "Prestige Talent Partners Ltd",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "tender healthcare consulting": {
+   "name": "Tender Healthcare Consulting Ltd",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "ios recruitment": {
+   "name": "Ios Recruitment",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "a star care agency": {
+   "name": "A Star Care Agency Ltd",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "pure care recruitment": {
+   "name": "Pure Care Recruitment",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "network healthcare": {
+   "name": "NETWORK HEALTHCARE (KENT) LTD",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "s p consulting": {
+   "name": "S&P Consulting Services Ltd",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "cornerstone healthcare": {
+   "name": "Cornerstone Healthcare Services Limited",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "raven medical staffing": {
+   "name": "Raven Medical Staffing",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "search consultancy": {
+   "name": "Search Consultancy Ltd",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "ttl recruit": {
+   "name": "TTL Recruit Ltd",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "evolve staffing": {
+   "name": "Evolve Staffing Ltd",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "excelsis healthcare recruitment": {
+   "name": "Excelsis Healthcare Recruitment Ltd",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30",
+   "lastSponsoredAdvert": "2026-10-14"
+  },
+  "amenable staffing": {
+   "name": "Amenable Staffing Ltd",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "spire healthcare": {
+   "name": "Spire Healthcare Ltd",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "exemplar health care": {
+   "name": "Exemplar Health Care",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "autism east midlands": {
+   "name": "Autism East Midlands",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "imap centre": {
+   "name": "iMap Centre Limited",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-26"
+  },
+  "midlands care": {
+   "name": "Midlands Care Services Ltd",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "anonymous recruiter": {
+   "name": "Anonymous Recruiter",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "leo recruits": {
+   "name": "LEO RECRUITS LTD",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "jordan xavier": {
+   "name": "Jordan Xavier LTD",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-26"
+  },
+  "bluebird care": {
+   "name": "Bluebird Care (Bromsgrove & Redditch)",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "recruitment": {
+   "name": "Recruitment Services UK",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "lowry recruitment": {
+   "name": "Lowry Recruitment Ltd",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "intelligence recruitment": {
+   "name": "Intelligence Recruitment",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "coverage care": {
+   "name": "Coverage Care Services Ltd",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "airmid staffing": {
+   "name": "Airmid Staffing Ltd",
+   "licensed": false,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "htr care recruitment": {
+   "name": "HTR CARE AND RECRUITMENT LIMITED",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "cwm taf morgannwg university health board": {
+   "name": "Cwm Taf Morgannwg University Health Board",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-11-01"
+  },
+  "hywel dda health board": {
+   "name": "Hywel Dda Health Board",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-11-01"
+  },
+  "betsi cadwaladr university health board": {
+   "name": "The Betsi Cadwaladr University Health Board",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-11-01"
+  },
+  "b braun avitum": {
+   "name": "B.Braun Avitum UK Ltd",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-11-01"
+  },
+  "nhs tayside": {
+   "name": "NHS Tayside",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-11-01"
+  },
+  "nhs lothian": {
+   "name": "NHS Lothian",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-11-01"
+  },
+  "nhs fife": {
+   "name": "NHS Fife",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-11-01"
+  },
+  "nhs highland": {
+   "name": "NHS Highland",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-11-01"
+  },
+  "nhs lanarkshire": {
+   "name": "NHS Lanarkshire",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "nhs forth valley": {
+   "name": "NHS Forth Valley",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-11-01"
+  },
+  "nhs greater glasgow clyde": {
+   "name": "NHS Greater Glasgow and Clyde",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-11-01"
+  },
+  "nhs grampian": {
+   "name": "NHS Grampian",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-11-01"
+  },
+  "nhs ayrshire arran": {
+   "name": "NHS Ayrshire and Arran",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-10-30"
+  },
+  "nhs shetland": {
+   "name": "NHS Shetland",
+   "licensed": true,
+   "firstSeen": "2026-10-26",
+   "lastChecked": "2026-11-01"
+  },
+  "disability action yorkshire": {
+   "name": "Disability Action - Yorkshire",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "bondcare": {
+   "name": "Bondcare (Bromford) Limited",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-27"
+  },
+  "heritage childrens homes": {
+   "name": "HERITAGE CHILDRENS HOMES LIMITED",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "nova care": {
+   "name": "NOVA CARE GROUP LTD",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "dalesview partnership": {
+   "name": "Dalesview Partnership Ltd",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "four leaf recruitment": {
+   "name": "Four Leaf Recruitment",
+   "licensed": false,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "specsavers": {
+   "name": "Specsavers (Louth Visionplus Ltd)",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "st elizabeth s centre": {
+   "name": "St Elizabeth's Centre",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "healthhero": {
+   "name": "HealthHero Group Limited",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "university college birmingham": {
+   "name": "University College Birmingham",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "serenity welfare": {
+   "name": "Serenity Welfare Ltd",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "stonewater": {
+   "name": "Stonewater Limited",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "hertfordshire partnership university nhs foundation trust": {
+   "name": "Hertfordshire Partnership University NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01",
+   "lastSponsoredAdvert": "2026-10-30"
+  },
+  "cheshire wirral partnership nhs foundation trust": {
+   "name": "Cheshire & Wirral Partnership NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "maximus": {
+   "name": "MAXIMUS UK Services Ltd",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "envisage dental": {
+   "name": "Envisage Dental UK Limited",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "east lancashire hospitals nhs trust": {
+   "name": "East Lancashire Hospitals NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "prime life": {
+   "name": "Prime Life",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "optical express": {
+   "name": "Optical Express Limited",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "hc one": {
+   "name": "HC-One Limited",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "workforce employment solutions": {
+   "name": "Workforce Employment Solutions Limited",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "united recruitment system": {
+   "name": "UNITED RECRUITMENT SYSTEM LTD",
+   "licensed": false,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "crown recruits": {
+   "name": "CROWN RECRUITS",
+   "licensed": false,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "freedom recruitment capital": {
+   "name": "Freedom Recruitment Capital Limited",
+   "licensed": false,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "integrated health care management": {
+   "name": "Integrated Health Care Management",
+   "licensed": false,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "osa healthcare recruitment": {
+   "name": "Osa Healthcare Recruitment",
+   "licensed": false,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "healthcare clinical recruitment": {
+   "name": "Healthcare Clinical Recruitment Ltd",
+   "licensed": false,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "bsr health recruitment": {
+   "name": "BSR Health Recruitment Ltd",
+   "licensed": false,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "staffing connect": {
+   "name": "Staffing Connect",
+   "licensed": false,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "belmont recruitment": {
+   "name": "Belmont Recruitment",
+   "licensed": false,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "diamond search recruitment": {
+   "name": "Diamond Search Recruitment Ltd",
+   "licensed": false,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "heycroft staffing solutions": {
+   "name": "Heycroft Staffing Solutions Ltd",
+   "licensed": false,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "comfort care": {
+   "name": "Comfort Care Services (Colchester) Ltd",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "wetherby home care": {
+   "name": "WETHERBY HOME CARE LIMITED",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-27"
+  },
+  "nocturnal recruitment solutions": {
+   "name": "Nocturnal Recruitment Solutions",
+   "licensed": false,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "temporary staffing agency tsa": {
+   "name": "Temporary Staffing Agency TSA LTD",
+   "licensed": false,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-27"
+  },
+  "varang recruitment": {
+   "name": "Varang Recruitment",
+   "licensed": false,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "flamingo workforce": {
+   "name": "Flamingo Workforce",
+   "licensed": false,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "housing support recruitment": {
+   "name": "Housing & Support Recruitment",
+   "licensed": false,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "careline agency for care staff": {
+   "name": "Careline The Agency For Care Staff",
+   "licensed": false,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "giving back recruitment": {
+   "name": "Giving Back Recruitment",
+   "licensed": false,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "new ark recruitment": {
+   "name": "New Ark Recruitment",
+   "licensed": false,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "trust in care": {
+   "name": "Trust In Care Limited",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "viewpoint housing association": {
+   "name": "Viewpoint Housing Association Limited",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "oakgar recruitment": {
+   "name": "OakGar Recruitment",
+   "licensed": false,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "hoe bridge school": {
+   "name": "Hoe Bridge School",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "atlas care homes": {
+   "name": "Atlas Care Homes Ltd",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "linkit recruitment": {
+   "name": "Linkit Recruitment",
+   "licensed": false,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-27"
+  },
+  "colin": {
+   "name": "COLIN LIMITED",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "hoop recruitment": {
+   "name": "Hoop Recruitment",
+   "licensed": false,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "millennium staffing": {
+   "name": "Millennium Staffing Limited",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "matrix staffing solutions": {
+   "name": "Matrix Staffing Solutions Limited",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "first option healthcare": {
+   "name": "FIRST OPTION HEALTHCARE LIMITED",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "nani recruitment": {
+   "name": "Nani Recruitment",
+   "licensed": false,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "aesn": {
+   "name": "AESN LIMITED",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "eton college": {
+   "name": "ETON COLLEGE",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "find recruitment": {
+   "name": "Find Recruitment Group LTD",
+   "licensed": false,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-27"
+  },
+  "right search recruitment": {
+   "name": "Right Search Recruitment Ltd",
+   "licensed": false,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "bridge healthcare recruitment": {
+   "name": "Bridge Healthcare Recruitment",
+   "licensed": false,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-27"
+  },
+  "pdsa": {
+   "name": "PDSA",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "sanders senior living": {
+   "name": "Sanders Senior Living Limited",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "vetro recruitment": {
+   "name": "Vetro Recruitment",
+   "licensed": false,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "pertemps medical professionals": {
+   "name": "Pertemps Medical Professionals Limited",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "harriet ellis training recruitment": {
+   "name": "Harriet Ellis Training & Recruitment Group",
+   "licensed": false,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "cromwell medical staffing": {
+   "name": "Cromwell Medical Staffing",
+   "licensed": false,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "focus resourcing": {
+   "name": "Focus Resourcing",
+   "licensed": false,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "connect executive search": {
+   "name": "Connect Executive Search Group",
+   "licensed": false,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-27"
+  },
+  "msi reproductive choices": {
+   "name": "MSI Reproductive Choices",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "acj talent partners trading as respond recruit": {
+   "name": "ACJ Talent Partners Ltd trading as Respond Recruit",
+   "licensed": false,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "daytime healthcare recruitment": {
+   "name": "Daytime Healthcare Recruitment Limited",
+   "licensed": false,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "everpool recruitment": {
+   "name": "Everpool Recruitment",
+   "licensed": false,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-27"
+  },
+  "oneway recruit": {
+   "name": "OneWay Recruit",
+   "licensed": false,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "rtc resources": {
+   "name": "RTC Resources Ltd",
+   "licensed": false,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-27"
+  },
+  "assist care": {
+   "name": "Assist Care Group",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "scottish autism": {
+   "name": "Scottish Autism",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "bridge housing": {
+   "name": "BRIDGE HOUSING UK LIMITED",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "frontier consulting": {
+   "name": "Frontier Consulting",
+   "licensed": false,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "midlands partnership nhs foundation trust": {
+   "name": "Midlands Partnership NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "worcestershire acute hospitals nhs trust": {
+   "name": "Worcestershire Acute Hospitals NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "dorset healthcare university nhs foundation trust": {
+   "name": "Dorset HealthCare University NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01",
+   "lastSponsoredAdvert": "2026-10-27"
+  },
+  "kent medway mental health nhs trust": {
+   "name": "Kent & Medway Mental Health NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "inclusion": {
+   "name": "Inclusion International",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-27"
+  },
+  "sussex partnership nhs foundation trust": {
+   "name": "Sussex Partnership NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "lincolnshire community health nhs trust": {
+   "name": "Lincolnshire Community Health Services NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "hampshire isle wight healthcare nhs foundation trust": {
+   "name": "Hampshire and Isle of Wight Healthcare NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "torbay south devon nhs foundation trust": {
+   "name": "Torbay and South Devon NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "northern lincolnshire goole nhs foundation trust": {
+   "name": "Northern Lincolnshire & Goole NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "cambridge university hospitals nhs foundation trust": {
+   "name": "Cambridge University Hospitals NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01",
+   "lastSponsoredAdvert": "2026-08-25"
+  },
+  "spectrum community health cic": {
+   "name": "Spectrum Community Health CIC",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "east kent hospitals university nhs foundation trust": {
+   "name": "East Kent Hospitals University NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-27"
+  },
+  "royal devon university healthcare nhs foundation trust": {
+   "name": "Royal Devon University Healthcare NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "university hospitals coventry warwickshire nhs trust": {
+   "name": "UNIVERSITY HOSPITALS COVENTRY AND WARWICKSHIRE NHS TRUST",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "avon wiltshire mental health nhs partnership": {
+   "name": "Avon and Wiltshire Mental Health NHS Partnership",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "isle wight nhs trust": {
+   "name": "Isle of Wight NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "surrey borders partnership nhs foundation trust": {
+   "name": "Surrey & Borders Partnership NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "navigo health social care cic": {
+   "name": "NAViGO Health and Social Care CIC",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "rotherham doncaster south humber nhs foundation trust": {
+   "name": "Rotherham Doncaster and South Humber NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-27"
+  },
+  "gateshead health nhs foundation trust": {
+   "name": "Gateshead Health NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "royal wolverhampton nhs trust": {
+   "name": "The Royal Wolverhampton NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "university hospitals north midlands nhs trust": {
+   "name": "University Hospitals North Midlands NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "south tees hospital nhs foundation trust": {
+   "name": "South Tees Hospital NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "oxford university hospitals nhs trust": {
+   "name": "Oxford University Hospitals NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "oxford health nhs foundation trust": {
+   "name": "Oxford Health NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "royal surrey nhs foundation trust": {
+   "name": "Royal Surrey NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "wirral university teaching hospitals nhs trust": {
+   "name": "Wirral University Teaching Hospitals NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "sherwood forest hospitals nhs foundation trust": {
+   "name": "Sherwood Forest Hospitals NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01",
+   "lastSponsoredAdvert": "2026-10-30"
+  },
+  "devon partnership nhs trust": {
+   "name": "Devon Partnership NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01",
+   "lastSponsoredAdvert": "2026-10-28"
+  },
+  "cornwall partnership nhs foundation trust": {
+   "name": "Cornwall Partnership NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "berkshire healthcare nhs foundation trust": {
+   "name": "Berkshire Healthcare NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "liverpool university hospitals nhs foundation trust": {
+   "name": "Liverpool University Hospitals NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "leicestershire partnership nhs trust": {
+   "name": "Leicestershire Partnership NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "north tees hartlepool nhs foundation trust": {
+   "name": "North Tees and Hartlepool NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "mersey care nhs trust": {
+   "name": "Mersey Care NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01",
+   "lastSponsoredAdvert": "2026-10-23"
+  },
+  "nottinghamshire healthcare nhs foundation trust": {
+   "name": "Nottinghamshire Healthcare NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01",
+   "lastSponsoredAdvert": "2026-10-21"
+  },
+  "greater manchester mental health nhs foundation trust": {
+   "name": "Greater Manchester Mental Health NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "tees esk wear valleys nhs trust": {
+   "name": "TEES, ESK & WEAR VALLEYS NHS TRUST",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "herefordshire worcestershire health care nhs trust": {
+   "name": "Herefordshire and Worcestershire Health and Care NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "wirral community health care nhs foundation trust": {
+   "name": "Wirral Community Health and Care NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "medway nhs foundation trust": {
+   "name": "Medway NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "james paget university hospitals nhs foundation trust": {
+   "name": "James Paget University Hospitals NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "somerset nhs foundation trust": {
+   "name": "Somerset NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "north cumbria integrated care nhs foundation trust": {
+   "name": "North Cumbria Integrated Care NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01",
+   "lastSponsoredAdvert": "2026-10-29"
+  },
+  "university hospitals morecambe bay nhs foundation trust": {
+   "name": "University Hospitals of Morecambe Bay NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "oxleas nhs foundation trust": {
+   "name": "Oxleas NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "essex partnership university nhs foundation trust": {
+   "name": "Essex Partnership University NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "princess alexandra hospital nhs trust": {
+   "name": "THE PRINCESS ALEXANDRA HOSPITAL NHS TRUST",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "public health wales nhs trust": {
+   "name": "Public Health Wales NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "shropshire community health nhs trust": {
+   "name": "Shropshire Community Health NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "aneurin bevan university health board": {
+   "name": "Aneurin Bevan University Health Board",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "leeds teaching hospitals nhs trust": {
+   "name": "Leeds Teaching Hospitals NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "dudley nhs foundation trust": {
+   "name": "The Dudley Group NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-27"
+  },
+  "wye valley nhs trust": {
+   "name": "Wye Valley NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "university hospitals birmingham nhs foundation trust": {
+   "name": "University Hospitals Birmingham NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "airedale nhs foundation trust": {
+   "name": "Airedale NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-27",
+   "lastSponsoredAdvert": "2026-10-15"
+  },
+  "stockport nhs foundation trust": {
+   "name": "Stockport NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "gloucestershire health care nhs foundation trust": {
+   "name": "GLoucestershire Health and Care NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "north west anglia nhs foundation trust": {
+   "name": "North West Anglia NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "mersey west lancashire teaching hospitals nhs trust": {
+   "name": "Mersey and West Lancashire Teaching Hospitals NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "lancashire south cumbria nhs foundation trust": {
+   "name": "Lancashire and South Cumbria NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "leeds york partnership nhs foundation trust": {
+   "name": "Leeds and York Partnership NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "buckinghamshire healthcare nhs trust": {
+   "name": "Buckinghamshire Healthcare NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "salisbury nhs foundation trust": {
+   "name": "Salisbury NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "great western hospitals nhs foundation trust": {
+   "name": "The Great Western Hospitals NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "south tyneside sunderland nhs foundation trust": {
+   "name": "South Tyneside and Sunderland NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "pilgrims hospices in east kent": {
+   "name": "Pilgrims Hospices in East Kent",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "north london nhs foundation trust": {
+   "name": "North London NHS Foundation Trust (NLFT)",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "blackpool teaching hospitals nhs foundation trust": {
+   "name": "Blackpool Teaching Hospitals NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "harrogate district nhs foundation trust": {
+   "name": "Harrogate & District NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "kent community health nhs foundation trust": {
+   "name": "Kent Community Health NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "croydon health nhs trust": {
+   "name": "Croydon Health Services NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-27"
+  },
+  "marie curie": {
+   "name": "Marie Curie",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "county durham darlington nhs foundation trust": {
+   "name": "County Durham and Darlington NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "university hospitals leicester nhs trust": {
+   "name": "University Hospitals of Leicester NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-27"
+  },
+  "mid south essex nhs foundation trust": {
+   "name": "Mid and South Essex NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "central north west london nhs foundation trust": {
+   "name": "Central and North West London NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "portsmouth hospitals university nhs trust": {
+   "name": "Portsmouth Hospitals University NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "imperial college healthcare nhs trust": {
+   "name": "Imperial College Healthcare NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "east cheshire nhs trust": {
+   "name": "East Cheshire NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "manchester university nhs foundation trust": {
+   "name": "Manchester University NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30",
+   "lastSponsoredAdvert": "2026-10-27"
+  },
+  "royal orthopaedic hospital nhs foundation trust": {
+   "name": "The Royal Orthopaedic Hospital NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-27"
+  },
+  "humber teaching nhs foundation trust": {
+   "name": "Humber Teaching NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01",
+   "lastSponsoredAdvert": "2026-10-28"
+  },
+  "pennine care nhs foundation trust": {
+   "name": "Pennine Care NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "university hospitals plymouth nhs trust": {
+   "name": "University Hospitals Plymouth NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "cumbria northumberland tyne wear nhs foundation trust": {
+   "name": "CUMBRIA, NORTHUMBERLAND, TYNE AND WEAR NHS FOUNDATION TRUST",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "northumbria healthcare nhs foundation trust": {
+   "name": "Northumbria Healthcare NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "invicta health cic": {
+   "name": "Invicta Health CIC",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-27"
+  },
+  "derbyshire community health nhs trust": {
+   "name": "Derbyshire Community Health Services NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01",
+   "lastSponsoredAdvert": "2026-10-30"
+  },
+  "bedfordshire hospitals nhs foundation trust": {
+   "name": "Bedfordshire Hospitals NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "york scarborough teaching hospitals nhs foundation trust": {
+   "name": "York & Scarborough Teaching Hospitals NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "birmingham solihull mental health foundation nhs trust": {
+   "name": "Birmingham & Solihull Mental Health Foundation NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "livewell southwest": {
+   "name": "Livewell Southwest (CIC)",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "village surgery": {
+   "name": "The Village Surgery",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "norfolk suffolk nhs foundation trust": {
+   "name": "Norfolk and Suffolk NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "central london community healthcare nhs trust": {
+   "name": "Central London Community Healthcare NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "north east ambulance service nhs foundation trust": {
+   "name": "North East Ambulance Service NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "yorkshire ambulance service nhs trust": {
+   "name": "Yorkshire Ambulance Service NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "royal cornwall hospitals nhs trust": {
+   "name": "Royal Cornwall Hospitals NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "south central ambulance service nhs foundation trust": {
+   "name": "South Central Ambulance Service NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "homerton healthcare nhs foundation trust": {
+   "name": "Homerton Healthcare NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "chesterfield royal hospital nhs foundation trust": {
+   "name": "Chesterfield Royal Hospital NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "royal free london nhs foundation trust": {
+   "name": "Royal Free London NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "west suffolk nhs foundation trust": {
+   "name": "West Suffolk NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "lewisham greenwich nhs trust": {
+   "name": "Lewisham & Greenwich NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "christie nhs foundation trust": {
+   "name": "Christie NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "bristol nhs foundation trust": {
+   "name": "Bristol NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "royal berkshire nhs foundation trust": {
+   "name": "Royal Berkshire NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "black country healthcare nhs foundation trust": {
+   "name": "Black Country Healthcare NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-27"
+  },
+  "cambridgeshire peterborough nhs foundation trust": {
+   "name": "Cambridgeshire & Peterborough NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-27"
+  },
+  "leeds community healthcare nhs trust": {
+   "name": "Leeds Community Healthcare NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "northern care alliance nhs foundation trust": {
+   "name": "Northern Care Alliance NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "calderdale huddersfield nhs foundation trust": {
+   "name": "Calderdale and Huddersfield NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "milton keynes university hospital nhs foundation trust": {
+   "name": "Milton Keynes University Hospital NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-27"
+  },
+  "east london nhs foundation trust": {
+   "name": "East London NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "east coast community healthcare cic": {
+   "name": "East Coast Community Healthcare CIC",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "bradford district care trust nhs": {
+   "name": "Bradford District Care Trust NHS",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "mid yorkshire teaching nhs trust": {
+   "name": "Mid Yorkshire Teaching NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "university hospital southampton nhs foundation trust": {
+   "name": "University Hospital Southampton NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "hillingdon hospitals nhs foundation trust": {
+   "name": "The Hillingdon Hospitals NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "birmingham women s children s nhs foundation trust": {
+   "name": "Birmingham Women's and Children's NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "frimley health nhs foundation trust": {
+   "name": "Frimley Health NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "devon county council": {
+   "name": "Devon County Council",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "royal united hospital bath nhs trust": {
+   "name": "Royal United Hospital Bath NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "dorset county hospital nhs foundation trust": {
+   "name": "Dorset County Hospital NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "london north west university healthcare nhs trust": {
+   "name": "London North West University Healthcare NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-27"
+  },
+  "east sussex healthcare nhs trust": {
+   "name": "East Sussex Healthcare NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "united lincolnshire hospitals nhs trust": {
+   "name": "United Lincolnshire Hospitals NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-27"
+  },
+  "royal marsden nhs foundation trust": {
+   "name": "The Royal Marsden NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "northamptonshire healthcare nhs foundation trust": {
+   "name": "Northamptonshire Healthcare NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "hertfordshire community nhs trust": {
+   "name": "Hertfordshire Community NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30",
+   "lastSponsoredAdvert": "2026-10-15"
+  },
+  "nottingham citycare partnership cic": {
+   "name": "Nottingham CityCare Partnership CIC",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-27"
+  },
+  "city health care partnership cic": {
+   "name": "City Health Care Partnership CIC",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-27"
+  },
+  "st elizabeth hospice": {
+   "name": "St Elizabeth Hospice",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "kettering general hospital nhs trust": {
+   "name": "Kettering General Hospital NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "kims hospital": {
+   "name": "KIMS Hospital",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "norfolk norwich university hospitals nhs foundation trust": {
+   "name": "Norfolk and Norwich University Hospitals NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01",
+   "lastSponsoredAdvert": "2026-10-30"
+  },
+  "south london maudsley nhs foundation trust": {
+   "name": "South London & Maudsley NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "university hospitals derby burton nhs foundation trust": {
+   "name": "University Hospitals of Derby and Burton NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "tameside glossop integrated care nhs foundation trust": {
+   "name": "Tameside & Glossop Integrated Care NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "hampshire hospitals nhs foundation trust": {
+   "name": "Hampshire Hospitals NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "dartford gravesham nhs trust": {
+   "name": "Dartford and Gravesham NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-11-01"
+  },
+  "rotherham nhs foundation trust": {
+   "name": "The Rotherham NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-27"
+  },
+  "gloucestershire hospitals nhs foundation trust": {
+   "name": "Gloucestershire Hospitals NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "b braun medical": {
+   "name": "B. Braun Medical UK Ltd",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "powys teaching health board": {
+   "name": "Powys Teaching Health Board",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "nhs borders": {
+   "name": "NHS Borders",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "nhs western isles": {
+   "name": "NHS Western Isles",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30"
+  },
+  "national waiting times centre board": {
+   "name": "National Waiting Times Centre Board",
+   "licensed": true,
+   "firstSeen": "2026-10-27",
+   "lastChecked": "2026-10-30",
+   "lastSponsoredAdvert": "2026-10-19"
+  },
+  "belfast central mission": {
+   "name": "Belfast Central Mission",
+   "licensed": true,
+   "firstSeen": "2026-10-30",
+   "lastChecked": "2026-10-30"
+  },
+  "iris recruitment": {
+   "name": "IRIS Recruitment",
+   "licensed": false,
+   "firstSeen": "2026-10-30",
+   "lastChecked": "2026-10-30"
+  },
+  "heart england mencap": {
+   "name": "Heart of England Mencap",
+   "licensed": true,
+   "firstSeen": "2026-10-30",
+   "lastChecked": "2026-10-30"
+  },
+  "hertfordshire county council": {
+   "name": "Hertfordshire County Council",
+   "licensed": true,
+   "firstSeen": "2026-10-30",
+   "lastChecked": "2026-10-30"
+  },
+  "prospero teaching": {
+   "name": "Prospero Teaching",
+   "licensed": false,
+   "firstSeen": "2026-10-30",
+   "lastChecked": "2026-10-30"
+  },
+  "awd recruitment": {
+   "name": "AWD Recruitment",
+   "licensed": false,
+   "firstSeen": "2026-10-30",
+   "lastChecked": "2026-10-30"
+  },
+  "buttons recruitment": {
+   "name": "Buttons Recruitment Ltd",
+   "licensed": false,
+   "firstSeen": "2026-10-30",
+   "lastChecked": "2026-10-30"
+  },
+  "top tier talentees": {
+   "name": "Top Tier Talentees",
+   "licensed": false,
+   "firstSeen": "2026-10-30",
+   "lastChecked": "2026-10-30"
+  },
+  "four oaks healthcare": {
+   "name": "Four Oaks Healthcare Limited",
+   "licensed": true,
+   "firstSeen": "2026-10-30",
+   "lastChecked": "2026-10-30"
+  },
+  "briacare recruitment agency": {
+   "name": "Briacare Recruitment Agency Ltd",
+   "licensed": false,
+   "firstSeen": "2026-10-30",
+   "lastChecked": "2026-10-30"
+  },
+  "randolph hill nursing homes": {
+   "name": "Randolph Hill Nursing Homes (Scotland) Ltd",
+   "licensed": true,
+   "firstSeen": "2026-10-30",
+   "lastChecked": "2026-10-30"
+  },
+  "care a lot": {
+   "name": "Care-a-lot Limited",
+   "licensed": true,
+   "firstSeen": "2026-10-30",
+   "lastChecked": "2026-10-30"
+  },
+  "hrc recruitment": {
+   "name": "HRC Recruitment",
+   "licensed": true,
+   "firstSeen": "2026-10-30",
+   "lastChecked": "2026-10-30"
+  },
+  "care first recruitment solutions": {
+   "name": "Care First UK Recruitment Solutions",
+   "licensed": false,
+   "firstSeen": "2026-10-30",
+   "lastChecked": "2026-10-30"
+  },
+  "r v recruitment": {
+   "name": "R&V Recruitment Ltd",
+   "licensed": false,
+   "firstSeen": "2026-10-30",
+   "lastChecked": "2026-10-30"
+  },
+  "raycare": {
+   "name": "Raycare Ltd T/A Summerhill",
+   "licensed": true,
+   "firstSeen": "2026-10-30",
+   "lastChecked": "2026-10-30"
+  },
+  "selective recruitment solutions": {
+   "name": "Selective Recruitment Solutions Ltd",
+   "licensed": false,
+   "firstSeen": "2026-10-30",
+   "lastChecked": "2026-10-30"
+  },
+  "cassidy recruitment": {
+   "name": "CASSIDY RECRUITMENT LTD",
+   "licensed": false,
+   "firstSeen": "2026-10-30",
+   "lastChecked": "2026-10-30"
+  },
+  "key care support": {
+   "name": "Key Care & Support ltd",
+   "licensed": true,
+   "firstSeen": "2026-10-30",
+   "lastChecked": "2026-10-30"
+  },
+  "apex recruit": {
+   "name": "Apex Recruit Ltd",
+   "licensed": false,
+   "firstSeen": "2026-10-30",
+   "lastChecked": "2026-10-30"
+  },
+  "braemar medical recruitment": {
+   "name": "Braemar Medical Recruitment",
+   "licensed": false,
+   "firstSeen": "2026-10-30",
+   "lastChecked": "2026-10-30"
+  },
+  "holdich recruitment": {
+   "name": "Holdich Recruitment",
+   "licensed": false,
+   "firstSeen": "2026-10-30",
+   "lastChecked": "2026-10-30"
+  },
+  "red sector recruitment": {
+   "name": "Red Sector Recruitment Limited",
+   "licensed": false,
+   "firstSeen": "2026-10-30",
+   "lastChecked": "2026-10-30"
+  },
+  "greys specialist recruitment": {
+   "name": "Greys Specialist Recruitment",
+   "licensed": false,
+   "firstSeen": "2026-10-30",
+   "lastChecked": "2026-10-30"
+  },
+  "west london nhs trust": {
+   "name": "West London NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-30",
+   "lastChecked": "2026-11-01"
+  },
+  "bolton nhs foundation trust": {
+   "name": "Bolton NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-30",
+   "lastChecked": "2026-11-01"
+  },
+  "lancashire teaching hospitals nhs foundation trust": {
+   "name": "Lancashire Teaching Hospitals NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-30",
+   "lastChecked": "2026-10-30"
+  },
+  "mid cheshire hospitals nhs foundation trust": {
+   "name": "Mid Cheshire Hospitals NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-30",
+   "lastChecked": "2026-11-01"
+  },
+  "your healthcare cic": {
+   "name": "Your Healthcare CIC",
+   "licensed": true,
+   "firstSeen": "2026-10-30",
+   "lastChecked": "2026-10-30"
+  },
+  "bradford teaching hospitals nhs foundation trust": {
+   "name": "Bradford Teaching Hospitals NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-30",
+   "lastChecked": "2026-11-01"
+  },
+  "riverside surgery": {
+   "name": "Riverside Surgery",
+   "licensed": true,
+   "firstSeen": "2026-10-30",
+   "lastChecked": "2026-10-30"
+  },
+  "maidstone tunbridge wells nhs trust": {
+   "name": "Maidstone & Tunbridge Wells NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-30",
+   "lastChecked": "2026-10-30"
+  },
+  "south west yorkshire partnership nhs foundation trust": {
+   "name": "South West Yorkshire Partnership NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-30",
+   "lastChecked": "2026-10-30"
+  },
+  "barking havering redbridge university hospitals nhs trust": {
+   "name": "Barking Havering and Redbridge University Hospitals NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-30",
+   "lastChecked": "2026-10-30"
+  },
+  "birmingham community healthcare nhs foundation trust": {
+   "name": "Birmingham Community Healthcare NHS Foundation Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-30",
+   "lastChecked": "2026-10-30"
+  },
+  "nhs south east london integrated care board": {
+   "name": "NHS SOUTH EAST LONDON INTEGRATED CARE BOARD",
+   "licensed": true,
+   "firstSeen": "2026-10-30",
+   "lastChecked": "2026-10-30"
+  },
+  "church walk surgery": {
+   "name": "CHURCH WALK SURGERY",
+   "licensed": true,
+   "firstSeen": "2026-10-30",
+   "lastChecked": "2026-10-30"
+  },
+  "epsom st helier university hospitals nhs trust": {
+   "name": "Epsom and St Helier University Hospitals NHS Trust",
+   "licensed": true,
+   "firstSeen": "2026-10-30",
+   "lastChecked": "2026-10-30"
+  }
+ },
+ "updated": "2026-11-01"
+}

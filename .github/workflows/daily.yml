@@ -1,0 +1,56 @@
+# Every morning: refresh the sponsor registers and the job boards, then publish the feed on GitHub Pages.
+# The app's Sync downloads https://<owner>.github.io/<repo>/jobs.js. Yesterday's feed is restored first, so each job keeps
+# the date it was first seen ("New today") and employers keep their sponsorship history.
+name: Daily jobs feed
+on:
+  schedule:
+    - cron: '30 5 * * *'      # 05:30 UTC
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Restore yesterday's feed
+        run: |
+          base="https://${GITHUB_REPOSITORY_OWNER}.github.io/${GITHUB_REPOSITORY#*/}"
+          curl -sfL "$base/jobs.js" -o web/data/jobs.js.prev && mv web/data/jobs.js.prev web/data/jobs.js || echo "No published feed yet: starting from the committed jobs"
+          curl -sfL "$base/state/sponsor-evidence.json" -o tools/sponsor-evidence.json || true
+          curl -sfL "$base/state/geo-cache.json" -o tools/geo-cache.json || true
+          curl -sfL "$base/sponsors.js" -o web/data/sponsors.js || true
+      - name: Irish and Dutch sponsor data
+        run: node tools/build-intl-sponsors.js || echo "Kept the previous Irish and Dutch data"
+      - name: Sponsor register and job boards
+        run: node tools/daily-refresh.js
+      - name: Assemble the site
+        run: |
+          mkdir -p site/state
+          cp web/data/jobs.js web/data/sponsors.js site/
+          [ -f web/data/intl-sponsors.js ] && cp web/data/intl-sponsors.js site/ || true
+          cp tools/sponsor-evidence.json tools/geo-cache.json site/state/
+          node -e "const vm=require('vm');const w={};vm.runInNewContext(require('fs').readFileSync('web/data/jobs.js','utf8'),{window:w});const m=w.JOB_DATA.meta;process.stdout.write(JSON.stringify({lastRefresh:m.lastRefresh,jobs:w.JOB_DATA.jobs.length,newToday:m.newToday,register:m.register}))" > site/meta.json
+          cat site/meta.json
+          printf '<!doctype html><meta charset="utf-8"><title>Sponsor jobs feed</title><h1>Sponsor jobs feed</h1><p>Updated daily by GitHub Actions. Files: <a href="jobs.js">jobs.js</a>, <a href="meta.json">meta.json</a>, <a href="sponsors.js">sponsors.js</a>, <a href="intl-sponsors.js">intl-sponsors.js</a>.</p>' > site/index.html
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
